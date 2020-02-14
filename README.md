@@ -1,2 +1,2 @@
 # GitLearningRepo
-This the part of GitLearning.
+This is the part of GitLearning.
